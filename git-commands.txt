@@ -1,3 +1,4 @@
 command1: git clone url
 command2: git status(enter)
 command3:git add filename (enter)
+command4:git commit -m "Enter message"
